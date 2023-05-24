@@ -45,7 +45,10 @@ SpringBoot，Mybatis-Plus
 ## 5.B站视频教程
 https://www.bilibili.com/video/BV1Lz4y1Y7S1/
 
-## 6.交流学习
+## 6.CSDN文章
+[可点击，查看详细文章介绍](https://blog.csdn.net/madifu/article/details/130429019)
+
+## 7.交流学习
 搜索微信号：wx_madaogongcheng
 
 <img src="http://img.hongniangyun.net/wx/p0.jpg" width="300"/><br>
