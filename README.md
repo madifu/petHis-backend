@@ -51,4 +51,4 @@ https://www.bilibili.com/video/BV1Lz4y1Y7S1/
 ## 7.交流学习
 搜索微信号：wx_madaogongcheng
 
-<img src="http://img.hongniangyun.net/wx/p0.jpg" width="300"/><br>
+
